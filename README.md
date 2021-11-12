@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpat22
-- 👀 I’m interested in FRONT-END DEVELOPEMENT
+- 👀 I’m interested in FULL STACK DEVELOPEMENT
 - 🌱 I’m currently persuing computer engineering
 - 📫 How to reach me by gpatkar0122@gmail.com
 
