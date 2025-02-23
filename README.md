@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gpat22
 - 👀 I’m interested in Python Full Stack and Web Development 
-- 🌱 I’m currently persuing computer engineering
+- 🌱 BE computer engineere
 - 📫 How to reach me by gayatripatkar22@gmail.com
 
 <!---
