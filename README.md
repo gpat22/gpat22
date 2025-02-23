@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpat22
-- 👀 I’m interested in Java and Web Development 
+- 👀 I’m interested in Python Full Stack and Web Development 
 - 🌱 I’m currently persuing computer engineering
 - 📫 How to reach me by gayatripatkar22@gmail.com
 
