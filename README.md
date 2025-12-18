@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpat22
-- 👀 I’m interested in Full Stack, Web Development and Python Automation with AI touch
+- 👀 Passionate developer skilled in .NET, SQL, and API integration, with strong expertise in Python automation and dashboard development.
 - 🌱 BE computer engineere
 - 📫 How to reach me by gayatripatkar22@gmail.com
 
