@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpat22
-- 👀 Passionate developer skilled in .NET, SQL, and API integration, with strong expertise in Python automation and dashboard development.
+- 👀 AI/ML Engineer | Building Agentic AI, RAG Systems & LLM Applications with Python
 - 🌱 BE computer engineer
 - 📫 How to reach me by gayatripatkar22@gmail.com
 
